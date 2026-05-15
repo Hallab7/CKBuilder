@@ -17,7 +17,8 @@ CKBuilder is a 3-month structured program for developers getting started with bl
 
 | Week | Period | Highlights |
 |------|--------|------------|
-| [Week 1](program/progress-report/week-1/) | May 1–8 | Environment setup, CKB Academy lessons 1 & 2, hello-world, carrot validator, sUDT script |
+| [Week 1](progress-report/week-1/) | May 1–8 | Environment setup, CKB Academy lessons 1 & 2, hello-world, carrot validator, sUDT script |
+| [Week 2](progress-report/week-2/) | May 9–15 | Built CKB Actions Marketplace — on-chain task board with Rust scripts, testnet deployment, Next.js frontend, live on Vercel |
 
 ## How This Repo Is Organized
 
