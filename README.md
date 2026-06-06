@@ -21,6 +21,7 @@ CKBuilder is a 3-month structured program for developers getting started with bl
 | [Week 2](progress-report/week-2/) | May 9–15 | Built CKB Actions Marketplace — on-chain task board with Rust scripts, testnet deployment, Next.js frontend, live on Vercel |
 | [Week 3](progress-report/week-3/) | May 16–22 | Built DOB Credential Protocol — verifiable credentials as Spore DOBs, Spore SDK integration, multi-wallet support |
 | [Week 4](progress-report/week-4/) | May 23–29 | Built CKB Attestation Protocol — custom Rust scripts, revocable attestations, schema cells, testnet deployment |
+| [Week 5](progress-report/week-5/) | May 30–June 6 | Built Fiber Content Gate — pay-per-access content platform using Fiber micropayments, QR invoice UI, mock fallback |
 
 ## How This Repo Is Organized
 
