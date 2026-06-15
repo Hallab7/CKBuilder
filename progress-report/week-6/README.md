@@ -166,9 +166,6 @@ The build completed successfully and generated the expected routes:
 - How to separate Fiber remittance from the base savings MVP to reduce delivery risk
 - How to write a funding-oriented design spec with milestones, risks, and ecosystem value
 
-## Current Status
-
-FiberSave now has a working MVP foundation through Phase 4. The next step is Phase 5: testing, polish, and demo preparation.
 
 Important remaining work:
 
