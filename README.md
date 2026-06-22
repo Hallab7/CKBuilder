@@ -23,6 +23,7 @@ CKBuilder is a 3-month structured program for developers getting started with bl
 | [Week 4](progress-report/week-4/) | May 23–29 | Built CKB Attestation Protocol — custom Rust scripts, revocable attestations, schema cells, testnet deployment |
 | [Week 5](progress-report/week-5/) | May 30–June 6 | Built Fiber Content Gate — pay-per-access content platform using Fiber micropayments, QR invoice UI, mock fallback |
 | [Week 6](progress-report/week-6/) | June 7–14 | Started FiberSave — non-custodial savings and remittance app on CKB/Fiber, with design specs and MVP phases 1-4 implemented |
+| [Week 7](progress-report/week-7/) | June 15–21 | Completed FiberSave Phase 5 — native CKB testnet transactions, automated testing, and demo preparation |
 
 ## How This Repo Is Organized
 
