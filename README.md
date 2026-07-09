@@ -25,6 +25,7 @@ CKBuilder is a 3-month structured program for developers getting started with bl
 | [Week 6](progress-report/week-6/) | June 7–14 | Started FiberSave — non-custodial savings and remittance app on CKB/Fiber, with design specs and MVP phases 1-4 implemented |
 | [Week 7](progress-report/week-7/) | June 15–21 | Completed FiberSave Phase 5 — native CKB testnet transactions, automated testing, and demo preparation |
 | [Week 8](progress-report/week-8/) | June 22-29 | Completed FiberSave - Fiber remittance APIs, send/receive pages, live two-node Fiber test, and Vercel frontend deployment |
+| [Week 9](progress-report/week-9/) | June 30-July 6 | Completed Fiber Merchant SDK - A reusable merchant payment infrastructure SDK for CKB Fiber Network.t |
 
 ## How This Repo Is Organized
 
