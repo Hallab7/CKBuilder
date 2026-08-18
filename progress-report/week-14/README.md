@@ -1,4 +1,4 @@
-# Week 14 - August 4-10 2026
+# Week 14 - August 8-15 2026
 
 Fourteenth week of the CKBuilder program. Continued building **SkillMinute** by connecting signed session limits to private live rooms, authoritative presence, guarded Fiber settlement, canonical receipts, CKB commitments, participant dashboards, and audited administration.
 
