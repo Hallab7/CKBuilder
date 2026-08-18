@@ -1,4 +1,4 @@
-# Week 13 - July 28-August 3 2026
+# Week 13 - July 28-August 7 2026
 
 Thirteenth week of the CKBuilder program. Started building **SkillMinute** - a CKB and Fiber testnet application for short expert-help sessions with fixed five-minute billing intervals and a learner-authorized spending cap.
 
