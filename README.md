@@ -36,6 +36,7 @@ CKBuilder is a 3-month structured program for developers getting started with bl
 | [Week 13](progress-report/week-13/) | July 28-August 7 | Started SkillMinute with Fiber interval validation, secure identity, reviewed experts, collision-safe booking, and signed session authorization |
 | [Week 14](progress-report/week-14/) | August 8-15 | Expanded SkillMinute with private LiveKit rooms, authoritative presence, capped Fiber settlement, canonical receipts, CKB commitments, and dashboards |
 | [Week 15](progress-report/week-15/) | August 16-23 | Started SignalBounty with repository foundation, sponsor campaign flow, Android collection scaffold, and deterministic validation |
+| [Week 16](progress-report/week-16/) | August 24-31 | Expanded SignalBounty with contributor consent, payout profiles, mock Fiber settlement, emergency controls, and audited review decisions |
 
 ## How This Repo Is Organized
 
