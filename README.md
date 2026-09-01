@@ -15,7 +15,7 @@ CKBuilder is a 3-month structured program for developers getting started with bl
 
 ## Current Project
 
-[FiberSLA](https://github.com/Hallab7/ckb-fiber-sla) is open-source payment reliability and observability infrastructure for the CKB Fiber Network. It combines readiness probes, deterministic diagnoses, guarded payment checks, operator alerts, multi-agent coordination, and integration tooling.
+[SignalBounty](https://github.com/Hallab7/ckb-signalbounty) is an open-source CKB and Fiber testnet marketplace for sponsored mobile-network measurement campaigns. It combines reviewed sponsor campaigns, invited Android contributors, deterministic validation, RUSD reward settlement, and CKB audit commitments.
 
 ## Weekly Progress
 
@@ -26,13 +26,16 @@ CKBuilder is a 3-month structured program for developers getting started with bl
 | [Week 3](progress-report/week-3/) | May 16–22 | Built DOB Credential Protocol — verifiable credentials as Spore DOBs, Spore SDK integration, multi-wallet support |
 | [Week 4](progress-report/week-4/) | May 23–29 | Built CKB Attestation Protocol — custom Rust scripts, revocable attestations, schema cells, testnet deployment |
 | [Week 5](progress-report/week-5/) | May 30–June 6 | Built Fiber Content Gate — pay-per-access content platform using Fiber micropayments, QR invoice UI, mock fallback |
-| [Week 6](progress-report/week-6/) | June 7–14 | Started FiberSave — non-custodial savings and remittance app on CKB/Fiber, with design specs and MVP phases 1-4 implemented |
-| [Week 7](progress-report/week-7/) | June 15–21 | Completed FiberSave Phase 5 — native CKB testnet transactions, automated testing, and demo preparation |
+| [Week 6](progress-report/week-6/) | June 7–14 | Started FiberSave — non-custodial savings and remittance app on CKB/Fiber, with design specs and first MVP build slices implemented |
+| [Week 7](progress-report/week-7/) | June 15–21 | Completed FiberSave native CKB testnet transactions, automated testing, and demo preparation |
 | [Week 8](progress-report/week-8/) | June 22-29 | Completed FiberSave - Fiber remittance APIs, send/receive pages, live two-node Fiber test, and Vercel frontend deployment |
 | [Week 9](progress-report/week-9/) | June 30-July 6 | Completed Fiber Merchant SDK - A reusable merchant payment infrastructure SDK for CKB Fiber Network |
 | [Week 10](progress-report/week-10/) | July 7-13 | Started FiberSLA - validation tooling, durable storage, Fiber RPC compatibility, passive monitoring, and guarded payment checks |
 | [Week 11](progress-report/week-11/) | July 14-20 | Expanded FiberSLA with deterministic diagnoses, durable incidents and alerts, signed coordination, an operator dashboard, a readiness API, and an SDK |
 | [Week 12](progress-report/week-12/) | July 21-27 | Completed FiberSLA repository delivery with reproducible deployments, recovery tooling, public-beta operations, mainnet safeguards, release automation, and DAO handover documentation |
+| [Week 13](progress-report/week-13/) | July 28-August 7 | Started SkillMinute with Fiber interval validation, secure identity, reviewed experts, collision-safe booking, and signed session authorization |
+| [Week 14](progress-report/week-14/) | August 8-15 | Expanded SkillMinute with private LiveKit rooms, authoritative presence, capped Fiber settlement, canonical receipts, CKB commitments, and dashboards |
+| [Week 15](progress-report/week-15/) | August 16-23 | Started SignalBounty with repository foundation, sponsor campaign flow, Android collection scaffold, and deterministic validation |
 
 ## How This Repo Is Organized
 
