@@ -15,7 +15,7 @@ CKBuilder is a 3-month structured program for developers getting started with bl
 
 ## Current Project
 
-[SignalBounty](https://github.com/Hallab7/ckb-signalbounty) is an open-source CKB and Fiber testnet marketplace for sponsored mobile-network measurement campaigns. It combines reviewed sponsor campaigns, invited Android contributors, deterministic validation, RUSD reward settlement, and CKB audit commitments.
+[CKB Passport](https://github.com/Hallab7/ckb-passport) is a DID-native authentication proof of concept for registering passkeys as `did:ckb` verification methods and signing into applications without granting wallet spending authority. A guided testnet demo is available on [Vercel](https://ckb-passport.vercel.app/).
 
 ## Weekly Progress
 
@@ -37,6 +37,7 @@ CKBuilder is a 3-month structured program for developers getting started with bl
 | [Week 14](progress-report/week-14/) | August 8-15 | Expanded SkillMinute with private LiveKit rooms, authoritative presence, capped Fiber settlement, canonical receipts, CKB commitments, and dashboards |
 | [Week 15](progress-report/week-15/) | August 16-23 | Started SignalBounty with repository foundation, sponsor campaign flow, Android collection scaffold, and deterministic validation |
 | [Week 16](progress-report/week-16/) | August 24-31 | Expanded SignalBounty with contributor consent, payout profiles, mock Fiber settlement, emergency controls, and audited review decisions |
+| [Week 17](progress-report/week-17/) | September 1-7 | Started CKB Passport with CCC wallet DID discovery, passkey registration, conflict-safe resolution, SIWD verification, DID-only sessions, and security vectors |
 
 ## How This Repo Is Organized
 
