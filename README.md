@@ -15,7 +15,7 @@ CKBuilder is a 3-month structured program for developers getting started with bl
 
 ## Current Project
 
-[CKB Passport](https://github.com/Hallab7/ckb-passport) is a DID-native authentication proof of concept for registering passkeys as `did:ckb` verification methods and signing into applications without granting wallet spending authority. A guided testnet demo is available on [Vercel](https://ckb-passport.vercel.app/).
+[ReLoop Rewards](https://github.com/Hallab7/ckb-reloop-rewards) is an open-source CKB and Fiber testnet recycling-incentive platform. It records operator-verified collection events, reserves one reward for each accepted event, and prepares auditable RUSD settlement and CKB commitment evidence while keeping participant identities and photos off-chain.
 
 ## Weekly Progress
 
@@ -38,6 +38,7 @@ CKBuilder is a 3-month structured program for developers getting started with bl
 | [Week 15](progress-report/week-15/) | August 16-23 | Started SignalBounty with repository foundation, sponsor campaign flow, Android collection scaffold, and deterministic validation |
 | [Week 16](progress-report/week-16/) | August 24-31 | Expanded SignalBounty with contributor consent, payout profiles, mock Fiber settlement, emergency controls, and audited review decisions |
 | [Week 17](progress-report/week-17/) | September 1-7 | Started CKB Passport with CCC wallet DID discovery, passkey registration, conflict-safe resolution, SIWD verification, DID-only sessions, and security vectors |
+| [Week 18](progress-report/week-18/) | September 8-14 | Started ReLoop Rewards with workspace foundations, scoped campaigns, participant invitations, signed QR identities, consent, operator authorization, and idempotent event intake |
 
 ## How This Repo Is Organized
 
