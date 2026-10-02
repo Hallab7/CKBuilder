@@ -40,6 +40,7 @@ CKBuilder is a 3-month structured program for developers getting started with bl
 | [Week 17](progress-report/week-17/) | September 1-7 | Started CKB Passport with CCC wallet DID discovery, passkey registration, conflict-safe resolution, SIWD verification, DID-only sessions, and security vectors |
 | [Week 18](progress-report/week-18/) | September 8-14 | Started ReLoop Rewards with workspace foundations, scoped campaigns, participant invitations, signed QR identities, consent, operator authorization, and idempotent event intake |
 | [Week 19](progress-report/week-19/) | September 15-21 | Expanded ReLoop Rewards with deterministic validation, manual review, exactly-once reservations, guarded Fiber settlement, ambiguous-payment reconciliation, and recovery reporting |
+| [Week 20](progress-report/week-20/) | September 22-28 | Completed the ReLoop Rewards local release with private evidence controls, deterministic exports, CKB commitment payloads and Merkle proofs, operational safeguards, pilot fixtures, reconciliation, and handover documentation |
 
 ## How This Repo Is Organized
 
