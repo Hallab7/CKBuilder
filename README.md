@@ -15,7 +15,7 @@ CKBuilder is a 3-month structured program for developers getting started with bl
 
 ## Current Project
 
-[CKB Automata](https://github.com/Hallab7/ckb-automata) is a testnet-only, non-custodial CKB automation platform. It lets owners review and sign constrained automation jobs while CKB scripts bind payouts, schedules, successor cells, and owner recovery, and independent executors spend only their own fee inputs.
+[Flashfire](https://github.com/Hallab7/Flashfire) is an original browser-based 2D jetpack arena shooter built with TypeScript, Vite, and an HTML5 game engine. It includes six game modes, eight arenas, eleven weapons, five AI difficulty levels, desktop/gamepad/landscape-mobile controls, local progression, and a version 1.0.0 build published on [UTXOPlay](https://store.utxoplay.io/games/flashfire/).
 
 ## Weekly Progress
 
@@ -44,6 +44,7 @@ CKBuilder is a 3-month structured program for developers getting started with bl
 | [Week 21](progress-report/week-21/) | September 29-October 5 | Extended CKB Automata with a testnet-only DAO harvest protocol, Molecule schema, CKB contracts, transaction builders, canonical indexing, executor scheduling, owner recovery, wallet review, and deployment manifests |
 | [Week 22](progress-report/week-22/) | October 6-12 | Hardened CKB Automata with immediate harvest-submission visibility, workflow guides, compact list reads, corrected owner compensation, bounded executor queues, and shared payout-address support |
 | [Week 23](progress-report/week-23/) | October 13-19 | Audited CKB Automata's quiet source window, separated later code from the period, reran the current 470 workspace and 99 contract tests plus 768 fuzz inputs, and retained the pending testnet acceptance gates |
+| [Week 24](progress-report/week-24/) | October 20-26 | Documented Flashfire's browser arena-shooter implementation and UTXOPlay publication, including six modes, eight maps, eleven weapons, five AI levels, multiplatform controls, local progression, release tooling, and current verification gaps |
 
 ## How This Repo Is Organized
 
