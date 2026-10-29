@@ -42,6 +42,7 @@ CKBuilder is a 3-month structured program for developers getting started with bl
 | [Week 19](progress-report/week-19/) | September 15-21 | Expanded ReLoop Rewards with deterministic validation, manual review, exactly-once reservations, guarded Fiber settlement, ambiguous-payment reconciliation, and recovery reporting |
 | [Week 20](progress-report/week-20/) | September 22-28 | Completed the ReLoop Rewards local release with private evidence controls, deterministic exports, CKB commitment payloads and Merkle proofs, operational safeguards, pilot fixtures, reconciliation, and handover documentation |
 | [Week 21](progress-report/week-21/) | September 29-October 5 | Extended CKB Automata with a testnet-only DAO harvest protocol, Molecule schema, CKB contracts, transaction builders, canonical indexing, executor scheduling, owner recovery, wallet review, and deployment manifests |
+| [Week 22](progress-report/week-22/) | October 6-12 | Hardened CKB Automata with immediate harvest-submission visibility, workflow guides, compact list reads, corrected owner compensation, bounded executor queues, and shared payout-address support |
 
 ## How This Repo Is Organized
 
