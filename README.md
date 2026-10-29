@@ -15,7 +15,7 @@ CKBuilder is a 3-month structured program for developers getting started with bl
 
 ## Current Project
 
-[ReLoop Rewards](https://github.com/Hallab7/ckb-reloop-rewards) is an open-source CKB and Fiber testnet recycling-incentive platform. It records operator-verified collection events, reserves one reward for each accepted event, and prepares auditable RUSD settlement and CKB commitment evidence while keeping participant identities and photos off-chain.
+[CKB Automata](https://github.com/Hallab7/ckb-automata) is a testnet-only, non-custodial CKB automation platform. It lets owners review and sign constrained automation jobs while CKB scripts bind payouts, schedules, successor cells, and owner recovery, and independent executors spend only their own fee inputs.
 
 ## Weekly Progress
 
@@ -41,6 +41,7 @@ CKBuilder is a 3-month structured program for developers getting started with bl
 | [Week 18](progress-report/week-18/) | September 8-14 | Started ReLoop Rewards with workspace foundations, scoped campaigns, participant invitations, signed QR identities, consent, operator authorization, and idempotent event intake |
 | [Week 19](progress-report/week-19/) | September 15-21 | Expanded ReLoop Rewards with deterministic validation, manual review, exactly-once reservations, guarded Fiber settlement, ambiguous-payment reconciliation, and recovery reporting |
 | [Week 20](progress-report/week-20/) | September 22-28 | Completed the ReLoop Rewards local release with private evidence controls, deterministic exports, CKB commitment payloads and Merkle proofs, operational safeguards, pilot fixtures, reconciliation, and handover documentation |
+| [Week 21](progress-report/week-21/) | September 29-October 5 | Extended CKB Automata with a testnet-only DAO harvest protocol, Molecule schema, CKB contracts, transaction builders, canonical indexing, executor scheduling, owner recovery, wallet review, and deployment manifests |
 
 ## How This Repo Is Organized
 
